@@ -1,0 +1,63 @@
+# August 2025 Jane Street Puzzle – Attempt 1
+
+## Initial Impressions
+
+This puzzle featured nine dogs, each holding two poker cards. Eight of the dogs’ hands were visible, and one hand was hidden. Each dog also had a unique facial expression (emoji-style), which was presumably post-river.
+
+At first glance, the challenge seemed to be reverse-engineering the flop-turn-river based on their visible hands and emotional responses. I assumed that if I could find a board that made sense of all the moods and hands, I could then deduce the hidden hand.
+
+---
+
+## My Approach
+
+### Step 1: List All Known Hands and Moods
+
+I started by cataloging:
+- Each visible hand (two hole cards)
+- Their mood (e.g., “confident,” “fearful,” “hopeful,” etc.)
+
+From there, I tried to reason what kind of community cards could cause those moods. For instance:
+- Blissful/content dogs → likely hit strong hands
+- Angry/frustrated dogs → may have missed draws
+- Fearful/surprised → possibly beaten by unexpected hands
+
+### Step 2: Attempted to Reconstruct the Board
+
+I assumed the river was known to all players and caused the emotional shift.
+
+I tried to:
+- Simulate likely boards (flop, turn, river) that would result in these emotional shifts.
+- Consider the combinations of hands that would result in straights, flushes, top pair, two pair, etc.
+
+This turned out to be very complex, with multiple plausible boards for certain groupings, but always one or two hands/emotions that didn’t quite fit.
+
+---
+
+## Sticking Points
+
+Despite multiple board attempts, I couldn’t find a river that matched **all** emotions and made logical poker sense. Some emotions (like “confident” on a weak hand) felt impossible to rationalize, unless there was deeper deception.
+
+At this point, I started questioning:
+> Was the poker interpretation a red herring?
+
+But I was too committed to the card logic route to explore alternatives at this stage.
+
+---
+
+## What I Assumed (Incorrectly)
+
+- That the puzzle was about poker logic and board-building.
+- That emotions mapped directly to the strength of each player's final hand.
+- That the answer would emerge from deduction over the game state.
+
+---
+
+## Closing Thoughts (At Time of Attempt)
+
+I believed I was close, maybe a few logical steps or emotional mappings away. I hadn't considered decoding the emojis as a direct cipher or code. In retrospect, this was a major blind spot in my thinking.
+
+At the time of this attempt, I had **not** discovered the actual solution or seen any online help. This was my honest thought process up to the point of getting stuck.
+
+---
+
+*Submitted by Lucas, age 17 – building puzzle-solving discipline one failure at a time.*
